@@ -119,6 +119,8 @@ Transfer Learning is the method of creating a new model by using a pre-trained o
 
 This method helps to conserve the rich feature reprsentations learned by the already trained model, improoving the training speed and accuracy of the transfer learned model. Tensorflow's ResNet based pre-trained model **resnet_v2.ResNet50V2** trained on ImageNet dataset is used as the pre-trained model to create the transfer learning model using the current x-ray dataset for this project.
 
+[View Notebook](Notebooks/vidisha_Detect_Pneumonia_Using_X_Ray_Images_with_CNNs_and_Transfer_Learning) for the corresponding code block for building the transfer learning model.
+
 ## Model Evaluation 
 
 ### 1. CNN model 
